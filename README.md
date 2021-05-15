@@ -1,4 +1,11 @@
-# PersonalWebiste
-This is my personal Website highlighting all my skills and experience. 
+# FirstWebsite
+
+This is the first website that I ever built using HTML/CSS with some javascrpt here and there
+
+Just a fun project
+
+
+
+
 
 
